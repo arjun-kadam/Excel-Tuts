@@ -1,2 +1,2 @@
 # Excel For Beginners
-### Day 01 - Basic Operations
+- [ ] [Day 1](/Days/day1.md)
