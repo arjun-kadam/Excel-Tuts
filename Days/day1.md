@@ -5,5 +5,8 @@
 - Concatenation
 - Formatting
 - Sorting
-- [View Excel File](/Days/ExcelFiles/Excel%20Basics.xlsx)
+
+## [Download Excel File](/Days/ExcelFiles/ExcelBasicsDay1.xlsx)
+<hr>
+
 ![Day 1 SS](Images/Day1.png)
