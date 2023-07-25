@@ -1,6 +1,8 @@
 # Excel For Beginners
-- [X] [Day 1](/Days/day1.md)
-- [X] [Day 2](/Days/day2.md)
+- [X] [Day 1 -Basic ](/Days/day1.md)
+- [X] [Day 2 - Basics P2](/Days/day2.md)
+- [X] [Day 3 - Pivot Table](/Days/day3.md)
+- [X] [Day 4 - Vlookup](/Days/day4.md)
 
 <hr>
 
